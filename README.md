@@ -2,7 +2,7 @@
 
 <div align="center" width=100% >
 
-<p>サイバーセキュリティ大学</p>
+<p><b>サイバーセキュリティ大学</b></p>
 
 # Universidade de Segurança Cibernética
 
@@ -16,7 +16,7 @@
 
 <a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica">
 
-<img src="https://github.com/user-attachments/assets/efd1b537-fe7d-451d-be4d-495e28554946" width=90%/> </a>
+<img src="https://github.com/user-attachments/assets/efd1b537-fe7d-451d-be4d-495e28554946" width=75%/> </a>
 
 <br>
 <a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica"><img src="https://img.shields.io/badge/Sec_Dojo_Cyber_House-278280" /></a><br>
@@ -29,12 +29,12 @@
   <h1>Conteúdo</h1>
 
 <p><li><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file##conte%C3%BAdo">💡 Sobre</a></li></p>
-<p><li><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#introdu%C3%A7%C3%A3o-a-seguran%C3%A7a-cibernetica">🛡️ Introdução a Segurança Cibernetica</a>  <img src="https://img.shields.io/badge/Completo/Em_Progresso-cf1f37" /></li></p>
-<p><li><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#red-team---curso-iniciante-gratuito">🔴 Red Team - Curso Iniciante Gratuito</a>  <img src="https://img.shields.io/badge/Add_your badge_here._The_badge_code_is_hidden_in_this_repo-278280" /></li></p>
-<p><li><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#blue-team---curso-iniciante-gratuito">🔵 Blue Team - Curso Iniciante Gratuito</a> <img src="https://img.shields.io/badge/Add_your badge_here._The_badge_code_is_hidden_in_this_repo-278280" /></li></p>
-<p><li><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#pr%C3%A1tica-b%C3%B4nus-de-ctf-e-%C3%BAtimos-cves">🚩 Prática Bônus de CTF e Útimos CVEs</a>  <img src="https://img.shields.io/badge/Completo/Em_Progresso-cf1f37" /></li></p>
-<p><li><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#b%C3%B4nus-windows">🪟 Bônus Windows</a>  <img src="https://img.shields.io/badge/Completo/Em_Progresso-cf1f37" /></li></p>
-<p><li><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#salas-extremamente-dif%C3%ADceis-de-fazer">🧠 Salas extremamente difíceis de fazer</a>  <img src="https://img.shields.io/badge/Completo/Em_Progresso-cf1f37" /></li></p>
+<p><li><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#introdu%C3%A7%C3%A3o-a-seguran%C3%A7a-cibernetica">🛡️ Introdução a Segurança Cibernetica</a></li></p>
+<p><li><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#red-team---curso-iniciante-gratuito">🔴 Red Team - Curso Iniciante Gratuito</a></li></p>
+<p><li><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#blue-team---curso-iniciante-gratuito">🔵 Blue Team - Curso Iniciante Gratuito</a></li></p>
+<p><li><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#pr%C3%A1tica-b%C3%B4nus-de-ctf-e-%C3%BAtimos-cves">🚩 Prática Bônus de CTF e Útimos CVEs</a></li></p>
+<p><li><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#b%C3%B4nus-windows">🪟 Bônus Windows</a></li></p>
+<p><li><a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica?tab=readme-ov-file#salas-extremamente-dif%C3%ADceis-de-fazer">🧠 Salas extremamente difíceis de fazer</a></li></p>
 
 #
 
@@ -82,7 +82,6 @@
 
 <p><b>💡 Sobre a etapa <img src="https://img.shields.io/badge/6-278280" />:</b></p>
 <p>As tarefas são lineares em natureza de dificuldade. Então é recomendado fazê-las em ordem. Mas você ainda pode pular em algumas salas se achar que já está familiarizado com os conceitos. <br><br>
-Conforme você avança no curso, você encontrará emblemas de conclusão que estão ocultos neste <a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica">README</a> para emblemas de conclusão do caminho de Red e Blue Team. Você pode copiar o código HTML para eles e adicioná-lo à página de conteúdo abaixo depois de concluí-los.
 </p>
 
  </details>
@@ -314,10 +313,6 @@ Conforme você avança no curso, você encontrará emblemas de conclusão que es
 </table>
  </details>
 
- <p>🎉 Parabéns se você terminou até aqui! Você merece um emblema! Coloque isso em seus Writeups ou perfil do GitHub.</p>
- <p>Clique <a href="">aqui</a> para pegar o seu Emblema de Red Team!</p>
- <p> Você pode continuar fazendo os CTFs abaixo:</p>
-
   #
   
    <details>
@@ -460,10 +455,6 @@ Conforme você avança no curso, você encontrará emblemas de conclusão que es
 </table>
  </details>
 
- <p>🎉 Parabéns se você terminou até aqui! Você merece um emblema! Coloque isso em seus Writeups ou perfil do GitHub.</p>
- <p>Clique <a href="">aqui</a> para pegar o seu Emblema de Blue Team!</p>
- <p> Você pode continuar fazendo os CTFs abaixo:</p>
-
   #
 
   <details>
@@ -538,7 +529,7 @@ Conforme você avança no curso, você encontrará emblemas de conclusão que es
     </tr>
   </thead>
   <tbody>
-    <tr><td><img src="https://img.shields.io/badge/1-278280" /></td><td><a href="https://tryhackme.com/room/ra">🔱 Ra</a></td><td>Você encontrou a rede interna da WindCorp e seu Controlador de Domínio. Invada a rede.</td><td></td></tr>
+    <tr><td><img src="https://img.shields.io/badge/1-278280" /></td><td><a href="https://tryhackme.com/room/ra">🔱 Ra</a></td><td>Você encontrou a rede interna da WindCorp e seu Controlador de Domínio. Invada a rede.</td></tr>
     <tr><td><img src="https://img.shields.io/badge/2-278280" /></td><td><a href="https://tryhackme.com/room/cct2019">🦅 CCT2019</a></td><td>Desafios legados da Competição de Cibersegurança da Marinha dos EUA de 2019, patrocinada pela Décima Frota dos EUA.</td></tr>
     <tr><td><img src="https://img.shields.io/badge/3-278280" /></td><td><a href="https://tryhackme.com/room/theseus">🐂 Theseus</a></td><td>A primeira parte da série SuitGuy de desafios muito difíceis.</td></tr>
     <tr><td><img src="https://img.shields.io/badge/4-278280" /></td><td><a href="https://tryhackme.com/room/ironcorp">👔 Iron Corp</a></td><td>Obtenha acesso ao sistema da Iron Corp.</td></tr>
@@ -563,7 +554,9 @@ Conforme você avança no curso, você encontrará emblemas de conclusão que es
 
 _“A melhor forma de defender é saber atacar.” – Bruce Schneier_
 
-Inspired by: https://github.com/brootware/awesome-cyber-security-university
+##
+
+> Inspired by: https://github.com/brootware/awesome-cyber-security-university
 
 <div align="center" style="display: inline_block"><br>
  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kali-Dark.svg" />
@@ -597,7 +590,7 @@ Inspired by: https://github.com/brootware/awesome-cyber-security-university
 
 ##
 
-<a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica"><img src="https://img.shields.io/badge/Sec_Dojo_Cyber_House-278280" /></a><br>
+<a href="https://github.com/Sec-Dojo-Cyber-House/universidade-de-seguranca-cibernetica"><img src="https://img.shields.io/badge/Sec_Dojo_Cyber_House-fc0421" /></a><br>
 
 <a href="https://github.com/Sec-Dojo-Cyber-House">
         <img src="https://avatars.githubusercontent.com/u/191752661?s=200&v=4" width="120" style="border-radius: 50%;"/>
