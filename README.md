@@ -2,7 +2,7 @@
 
 <div align="center" width=100% >
 
-<p><b>サイバーセキュリティ大学</b></p>
+<p>サイバーセキュリティ大学</p>
 
 # Universidade de Segurança Cibernética
 
